@@ -11,8 +11,6 @@ Ky është një web aplikacion universitar për menaxhimin e punëtorëve sipas 
   - Shton, modifikon, dhe fshin punëtorë.
   - Shton, modifikon, dhe fshin sektorë.
   - Shton përdorues të rinj (administratorë).
-  - Mbron qasjen me mesazhin "Ndalohet qasja nga personat e paautorizuar".
-  - Buton për kthim në faqen e përdoruesve.
 
 ## Teknologjitë
 
@@ -46,6 +44,7 @@ Ky është një web aplikacion universitar për menaxhimin e punëtorëve sipas 
 ## Kontakti
 
 - **GitHub**: [arbhajdini](https://github.com/arbhajdini)
-- **Email**: [emaili.juaj@gmail.com](mailto:emaili.juaj@gmail.com)
+- **Email**: [arbhajdini@gmail.com](mailto:emaili.juaj@gmail.com)
+- **LinkedIn**: [arbhajdini](https://www.linkedin.com/in/arbhajdini/)
 
 **Zhvilluar nga Arb Hajdini**
