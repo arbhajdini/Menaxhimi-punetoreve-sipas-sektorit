@@ -1,7 +1,5 @@
 # Menaxhimi i Punëtorëve sipas Sektorit
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 Ky është një web aplikacion universitar për menaxhimin e punëtorëve sipas sektorit, i ndarë në dy module: **Moduli i Përdoruesve** për shfaqjen e punëtorëve dhe **Moduli i Administratorit** për menaxhimin e tyre.
 
 ## Funksionalitetet
@@ -30,7 +28,7 @@ Ky është një web aplikacion universitar për menaxhimin e punëtorëve sipas 
    git clone https://github.com/arbhajdini/Menaxhimi-punetoreve-sipas-sektorit.git
    ```
 2. Kopjo projektin në `htdocs` (XAMPP) ose `www` (WAMP).
-3. Krijo databazën në phpMyAdmin dhe importo `database.sql` (nëse ekziston).
+3. Krijo databazën në phpMyAdmin dhe importo `database.sql`.
 4. Përditëso `config.php` me kredencialet e databazës.
 5. Nis XAMPP/WAMP dhe hap: `http://localhost/Menaxhimi-punetoreve-sipas-sektorit`.
 
@@ -40,15 +38,10 @@ Ky është një web aplikacion universitar për menaxhimin e punëtorëve sipas 
 ├── ModuliPerdoruesit/     # Ndërfaqja e përdoruesve (HTML, CSS, JS)
 ├── ModuliAdministratorit/ # Logjika dhe ndërfaqja e administratorit (PHP, HTML, CSS, JS)
 ├── database.sql           # Struktura e databazës
-├── config.php             # Konfigurimi i databazës (.gitignore)
-├── README.md              # Dokumentacioni
-├── .gitignore             # Skedarët e përjashtuar
-└── LICENSE                # MIT License
+└── README.md              # Dokumentacioni
+
 ```
 
-## Licenca
-
-[MIT License](LICENSE)
 
 ## Kontakti
 
