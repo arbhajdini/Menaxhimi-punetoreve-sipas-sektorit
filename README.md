@@ -1,1 +1,0 @@
-# Menaxhimi-punetoreve-sipas-sektorit
