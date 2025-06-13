@@ -43,10 +43,9 @@ Ky është një web aplikacion universitar për menaxhimin e punëtorëve sipas 
 ├── ModuliAdministratorit/ # Logjika dhe ndërfaqja e administratorit (PHP, HTML, CSS, JS)
 ├── screenshots/           # GIF të aplikacionit
 ├── database.sql           # Struktura e databazës
-├── config.php             # Konfigurimi i databazës (.gitignore)
 ├── README.md              # Dokumentacioni
-├── .gitignore             # Skedarët e përjashtuar
-├── LICENSE                # MIT License
+
+
 ```
 
 ## Kontakti
