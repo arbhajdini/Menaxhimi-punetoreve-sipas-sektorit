@@ -44,8 +44,6 @@ Ky është një web aplikacion universitar për menaxhimin e punëtorëve sipas 
 ├── screenshots/           # GIF të aplikacionit
 ├── database.sql           # Struktura e databazës
 ├── README.md              # Dokumentacioni
-
-
 ```
 
 ## Kontakti
