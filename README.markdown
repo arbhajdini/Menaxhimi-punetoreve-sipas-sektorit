@@ -34,7 +34,7 @@ Ky është një web aplikacion universitar për menaxhimin e punëtorëve sipas 
 
 | Moduli i Përdoruesve | Moduli i Administratorit |
 |-----------------------|---------------------------|
-| ![Ndërfaqja e Modulit të Përdoruesve](screenshots/moduli_perdoruesve.gif) | ![Ndërfaqja e Modulit të Administratorit](screenshots/moduli_administratorit.gif) |
+| ![Ndërfaqja e Modulit të Përdoruesve](screenshots/Moduli_Perdoruesit.gif) | ![Ndërfaqja e Modulit të Administratorit](screenshots/moduli_administratorit.gif) |
 
 ## Struktura
 
