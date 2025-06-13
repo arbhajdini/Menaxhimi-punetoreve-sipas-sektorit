@@ -30,16 +30,24 @@ Ky është një web aplikacion universitar për menaxhimin e punëtorëve sipas 
 4. Përditëso `config.php` me kredencialet e databazës.
 5. Nis XAMPP/WAMP dhe hap: `http://localhost/Menaxhimi-punetoreve-sipas-sektorit`.
 
+## Pamje e Aplikacionit
+
+| Moduli i Përdoruesve | Moduli i Administratorit |
+|-----------------------|---------------------------|
+| ![Ndërfaqja e Modulit të Përdoruesve](screenshots/moduli_perdoruesve.gif) | ![Ndërfaqja e Modulit të Administratorit](screenshots/moduli_administratorit.gif) |
+
 ## Struktura
 
 ```plaintext
 ├── ModuliPerdoruesit/     # Ndërfaqja e përdoruesve (HTML, CSS, JS)
 ├── ModuliAdministratorit/ # Logjika dhe ndërfaqja e administratorit (PHP, HTML, CSS, JS)
+├── screenshots/           # GIF të aplikacionit
 ├── database.sql           # Struktura e databazës
-└── README.md              # Dokumentacioni
-
+├── config.php             # Konfigurimi i databazës (.gitignore)
+├── README.md              # Dokumentacioni
+├── .gitignore             # Skedarët e përjashtuar
+├── LICENSE                # MIT License
 ```
-
 
 ## Kontakti
 
